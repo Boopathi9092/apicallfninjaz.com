@@ -15,5 +15,9 @@
   ],
   "profile": {
     "name": "namecode"
+  },
+  "collections": {
+    "name":"PraveenKumar",
+    "age": "22"
   }
 }
