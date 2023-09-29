@@ -16,8 +16,17 @@
   "profile": {
     "name": "namecode"
   },
-  "collections": {
-    "name":"PraveenKumar",
-    "age": "22"
-  }
+  "collections": [
+    {
+      "name": "PraveenKumar",
+      "age": "22"
+    },{
+      "name": "PraveenKumar",
+      "age": "22"
+    },{
+      "name": "PraveenKumar",
+      "age": "22"
+    }
+
+  ]
 }
